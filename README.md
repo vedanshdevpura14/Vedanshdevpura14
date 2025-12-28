@@ -1,7 +1,12 @@
 
 
-<# 💫 About Me:
-I’m currently in Jecrc foundation college pursuing my btech degree.<br>I am learning Machine learning right now.<br>I would like if someone helps me in building my upskills.<br>I am curious,hard working,enthusiastic.
+B.Tech student at JECRC Foundation
+
+Focused on building a strong foundation in Machine Learning
+
+Continuously working on upskilling and hands-on learning
+
+Self-motivated, curious, and committed to personal and professional growth
 
 
 ## 🌐 Socials:
