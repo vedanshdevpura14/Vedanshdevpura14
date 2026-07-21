@@ -30,7 +30,7 @@ I recently wrapped up a **Data Science internship at Celebal Technologies**, whe
 - Engineered a **50+ feature pipeline** (binning, one-hot encoding) with strict train-serve schema alignment, so live predictions don't silently break
 - Shipped as a **live Streamlit app** for real-time churn risk scoring, after resolving cross-platform model serialization issues
 
-`Python` `Scikit-learn` `Pandas` `SMOTEENN` `Streamlit` — [Live Demo](#)
+`Python` `Scikit-learn` `Pandas` `SMOTEENN` `Streamlit` — [Live Demo](https://churn-prediction-model-vd.streamlit.app/)
 
 ---
 
@@ -41,7 +41,7 @@ I recently wrapped up a **Data Science internship at Celebal Technologies**, whe
 - Beat the classic **GARCH baseline on MAE and RMSE** — gradient boosting outperforming pure statistical modeling
 - Deployed a **FastAPI REST API** and a live **Streamlit dashboard** on Streamlit Cloud, pulling real-time prices from Yahoo Finance
 
-`Python` `LightGBM` `GARCH` `FastAPI` `Streamlit` — [Live Demo](#)
+`Python` `LightGBM` `GARCH` `FastAPI` `Streamlit` — [Live Demo](https://stock-volatility-forecaster2.streamlit.app/)
 
 ---
 
